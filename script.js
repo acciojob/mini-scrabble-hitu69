@@ -6,4 +6,4 @@ let element = inputData.value;
 let n=element.length;
 count.innerText=n;
 })
-count.innerText=n;
+// count.innerText=n;
